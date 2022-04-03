@@ -15,7 +15,8 @@ Local addresses / devices.
 ![policies](https://github.com/rdhwan/vpn-routing-indihome/raw/main/img/policies.png)
 6.  Add path to the Custom User File Includes for every scripts.
 ![enter image description here](https://github.com/rdhwan/vpn-routing-indihome/raw/main/img/custom_userfile.png)
-7. Finally enable and start vpn-policy-routing service.
+7. Save and Apply.
+8. Finally enable and start vpn-policy-routing service.
 ![enter image description here](https://github.com/rdhwan/vpn-routing-indihome/raw/main/img/enable.png)
 
 ## Checking the connection
