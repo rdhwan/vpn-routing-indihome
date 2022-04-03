@@ -22,4 +22,4 @@ Local addresses / devices.
 ## Checking the connection
 I wrote a simple Python script to check which CDN Google use for your network.
 ![enter image description here](https://github.com/rdhwan/vpn-routing-indihome/raw/main/img/result.png)
-There should display your Indihome's public IP address and Telkom's CDN (in my case its *pttelkom-cgk5*)
+There should display your *Indihome's public IP address and Telkom's CDN* instead of your VPN provider. (in my case its *pttelkom-cgk5*)
